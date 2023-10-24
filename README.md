@@ -14,7 +14,7 @@
 ### Who Am I
 - :seedling: I’m currently learning python, pandas, Algorithm
 -  :bullettrain_front: My hometown is Masan, Gyeongsangnam-do in Korea
-### My Stack
+### Learning Language
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
