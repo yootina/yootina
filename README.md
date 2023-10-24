@@ -7,7 +7,7 @@
 
 </div>
 
-## 안녕하세요, 예비 데이터분석가 유가영입니다.:heartbeat:
+## :wave: Hi, I'm yootina.:heartbeat:
 
 ### Who Am I
 - :seedling: I’m currently learning python, pandas, Algorithm
