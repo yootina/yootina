@@ -18,7 +18,7 @@
 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-#FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white"/>
+<img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white"/>
 
 ### What I Like
 - :video_game: Game
